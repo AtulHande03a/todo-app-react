@@ -8,7 +8,7 @@
 ## Technology
 
 - React Js
-- Context API
+- Module CSS
 - Local storage
 
 ---
